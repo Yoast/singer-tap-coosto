@@ -6,7 +6,7 @@ spec](https://github.com/singer-io/getting-started/blob/master/SPEC.md).
 
 This tap:
 
-- Pulls raw data from [Basecone](https://developers.basecone.com/ApiReference/General)
+- Pulls raw data from [Coosto](https://in.coosto.com/api1doc)
 - Extracts the following resources:
   - Intervention details
   - Comments

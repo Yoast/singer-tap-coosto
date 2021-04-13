@@ -1,0 +1,60 @@
+{
+	"selected": true,
+	"type": [
+		"null",
+		"object"
+	],
+	"additionalProperties": false,
+	"properties": {
+		"date": {
+			"type": [
+				"null",
+				"string"
+			],
+			"format": "date-time"
+		},
+		"user_id": {
+			"type": "number"
+		},
+		"source": {
+			"type": "string"
+		},
+		"author": {
+			"type": "string"
+		},
+		"message": {
+			"type": "string"
+		},
+		"response": {
+			"type": "string"
+		},
+		"created": {
+			"type": [
+				"null",
+				"string"
+			],
+			"format": "date-time"
+		},
+		"responsetime": {
+			"type": "number"
+		},
+		"responsetime_real": {
+			"type": "number"
+		},
+		"url": {
+			"type": [
+				"null",
+				"string"
+			]
+		},
+		"task_id": {
+			"type": "number"
+		},
+		"case_id": {
+			"type": [
+				"null",
+				"number"
+			]
+		}
+	}
+}

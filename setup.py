@@ -12,6 +12,9 @@ setup(
     install_requires=[
         # NB: Pin these to a more specific version for tap reliability
         'singer-python',
+        'httpx',
+        'httpx[http2]',
+        'pause',
     ],
     entry_points="""
     [console_scripts]
